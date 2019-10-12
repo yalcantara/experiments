@@ -5,7 +5,7 @@
 */.settings/
 */.vscode/
 */.idea/
-
+*.idea/
 
 ######################
 # Windows
@@ -13,17 +13,6 @@
 # Windows image file caches
 Thumbs.db
 
-######################
-# Intellij
-######################
-*/.idea/
-*/.iml
-*/.iws
-*/.ipr
-*/.ids
-*/.orig
-*/classes/
-*/out/
 
 ######################
 # Maven
