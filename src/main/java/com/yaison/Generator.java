@@ -58,8 +58,8 @@ public class Generator {
 
 
         String fname;
-
-
+        
+        
         Character gender = (rand.nextBoolean())? 'M' : 'F';
 
         if(gender == 'M'){

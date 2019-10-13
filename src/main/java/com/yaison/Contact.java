@@ -33,7 +33,11 @@ public class Contact {
     public Contact(){
         super();
     }
-
+    
+    public Contact(String firstName) {
+        this.firstName = firstName;
+    }
+    
     public Long getId() {
         return id;
     }
